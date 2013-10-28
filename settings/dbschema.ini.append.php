@@ -27,5 +27,6 @@ IndexNameTranslation[ezsurveyquestionresult.ezsurveyquestionresult_question_id]=
 IndexNameTranslation[ezsurveyresult.ezsurveyresult_survey_id]=ezsurveyresult_survey_id_i
 
 # We need group by on ezsurveyquestionresult.text, and this can't be done on CLOB
-ColumnTypeTranslation[ezsurveyquestionresult.text]=longtext;varchar(4000)
+ColumnTypeTranslation[ezsurveyquestionresult.text]=longtext;varchar(1000)
+
 */ ?>
